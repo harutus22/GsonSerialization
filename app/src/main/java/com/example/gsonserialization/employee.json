@@ -1,0 +1,23 @@
+{
+  "address": {
+    "city": "Lyon",
+    "country": "France"
+  },
+  "age": 22,
+  "email": "John@gmail.com",
+  "family": [
+    {
+      "age": 20,
+      "role": "Wife"
+    },
+    {
+      "age": 25,
+      "role": "Bother"
+    },
+    {
+      "age": 1,
+      "role": "Son"
+    }
+  ],
+  "firstName": "John"
+}
